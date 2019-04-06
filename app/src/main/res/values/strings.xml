@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">FootballNewsApp</string>
+
+    <string name="empty_view">No news found</string>
+
+    <string name="no_connection">No internet connection</string>
+
+    <string name="pavla"> - </string>
+
+    <string name="article_title">Article Title</string>
+    <string name="article_author">Article Author</string>
+    <string name="article_date">DD-MM-YYYY</string>
+    <string name="day_time">13:00</string>
+    <string name="article_section">Section</string>
+    <string name="article_type">Type</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Football News Settings</string>
+
+
+    <string name="settings_page_size_label">Page Size</string>
+    <string name="settings_page_size_key" translatable="false">page_size</string>
+    <string name="settings_page_size_default" translatable="false">10</string>
+    
+    <string name="settings_order_by_title">Order by</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_most_recent_value</string>
+
+    <string name="settings_order_by_most_recent_label">Newest</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">newest</string>
+
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+</resources>
